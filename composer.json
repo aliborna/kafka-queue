@@ -1,0 +1,11 @@
+{
+    "name": "ali/kafka-queue",
+    "require": {
+        "laravel/framework": "^9.42"
+    },
+    "autoload": {
+        "psr-4": {
+            "kafka\\": "src/"
+        }
+    }
+}
